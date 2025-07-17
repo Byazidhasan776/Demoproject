@@ -1,0 +1,14 @@
+{
+  "name": "Mahin Mess",
+  "short_name": "MahinMess",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "description": "Mahin Mess Management App",
+  "theme_color": "#87CEEB",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }]
+}
